@@ -8,11 +8,12 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 /* deixei alguns em pt-br para não gerar tanta confusão */
 typedef struct node{
   int endereco;
-  char *lexema;
+  char lexema[20];
   char *token;
   char *padrao; 
   char *ocorrencia;
@@ -40,14 +41,12 @@ Node* initialize(void){
 Node* insert(Node* actualList, char lexema[], char token[], char padrao[], char ocorrencia[]){
     Node* newNode = (Node*) malloc(sizeof(Node));
     
-    printf("%s", actualList -> lexema)
-    
     if(newNode == NULL){
         printf("Nao foi possivel criar o no da lista");
         exit(-1);
     }
     
-    newNode -> lexema = lexema;
+    strcpy(newNode -> lexema, lexema);
     newNode -> token = token;
     newNode -> padrao = padrao;
     newNode -> ocorrencia = ocorrencia;
@@ -65,9 +64,8 @@ Node* insert(Node* actualList, char lexema[], char token[], char padrao[], char 
        };
        
        current -> next = newNode;
-       actualList = current;
     }
-    
+    printf("\ninsert fim:%s\n", lexema);
     return actualList;
 }
 
@@ -76,40 +74,61 @@ Node* insert(Node* actualList, char lexema[], char token[], char padrao[], char 
  * Função que imprime todos os elementos da lista 
 */
 void printList(Node* list){
+	Node* aux_list = list;
+	
     int cont = 0;
     do{
         printf("\n================================================\n");
         printf("Endereco: %d\n", cont);
-        printf("Lexema: %s\n", list -> lexema);
-        printf("Token: %s\n", list -> token);
-        printf("Padrao: %s\n", list -> padrao);
-        printf("Ocorrencia: %s\n", list -> ocorrencia);
+        printf("Lexema: %s\n", aux_list->lexema);
+        printf("Token: %s\n", aux_list -> token);
+        printf("Padrao: %s\n", aux_list -> padrao);
+        printf("Ocorrencia: %s\n", aux_list -> ocorrencia);
         printf("================================================\n");
-        
-        //Trecho arquivo tabela
-		FILE *file;
-		file = fopen("tabela_simbolo.txt" , "a");
-		
-		if (file == NULL) {
-			printf ("Arquivo n�o pode ser aberto");
-			getchar();
-			exit (1);
-			
-	}
-			
-		fprintf(file, "\n================================================\n");
-		fprintf(file, "Endereco: %d\n", cont);
-		fprintf(file, "Lexema: %s\n", list->lexema);
-        fprintf(file, "Token: %s\n", list -> token);
-        fprintf(file, "Padrao: %s\n", list -> padrao);
-        fprintf(file, "Ocorrencia: %s\n", list -> ocorrencia);
-		fprintf(file, "\n================================================\n");
-		
-		fclose(file);
-		
-		
-        
+
+        //Trecho que imprime no arquivo tabela_simbolos
+
+        FILE *file;
+        file = fopen("D:\\workspace\\compilador\\tabela_simbolos.txt" , "a");
+
+        if (file == NULL) {
+            printf ("Arquivo nao pode ser aberto!");
+            getchar();
+            exit (1);
+
+        }
+
+        fprintf(file, "\n================================================\n");
+        fprintf(file, "Endereco: %d\n", cont);
+        fprintf(file, "Lexema: %s\n", aux_list->lexema);
+        fprintf(file, "Token: %s\n", aux_list -> token);
+        fprintf(file, "Padrao: %s\n", aux_list -> padrao);
+        fprintf(file, "Ocorrencia: %s\n", aux_list -> ocorrencia);
+        fprintf(file, "================================================\n");
+
+        fclose(file);
+
+
+        //Trecho que imprime no arquivo token
+
+        FILE *file2;
+        file2 = fopen("D:\\workspace\\compilador\\token.txt" , "a");
+
+        if (file2 == NULL) {
+            printf ("Arquivo nao pode ser aberto!");
+           getchar();
+           exit (1);
+
+        }
+
+                fprintf(file2, "< ");
+        fprintf(file2, "%s", aux_list -> token);
+        fprintf(file2, ", %d", cont);
+        fprintf(file2, ">; ");
+
+        fclose(file2);
+
         cont++;
-        list = list -> next;
-    }while(list != NULL);
+        aux_list = aux_list -> next;
+    }while(aux_list != NULL);    
 }

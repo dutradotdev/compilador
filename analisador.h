@@ -117,7 +117,7 @@ char getTipoChar(char value){
     }
 }
 
-char padraoLista(char value){
+void padraoLista(char value){
     if(verifica_se_numero(value)){
         return 'N';
     }else if(verifica_se_operador(value)){

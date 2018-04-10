@@ -1,1 +1,0 @@
-/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/compilador.dir/nbproject/private/c_standard_headers_indexer.c.o CMakeFiles/compilador.dir/nbproject/private/cpp_standard_headers_indexer.cpp.o CMakeFiles/compilador.dir/main.c.o  -o compilador.exe -Wl,--out-implib,libcompilador.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

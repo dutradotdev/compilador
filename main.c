@@ -16,9 +16,9 @@ int main(void){
     typedef struct node{
         
         int endereco;
-        char *lexema;
+        char lexema[20];
         char *token;
-        char *padrao;
+        char *padrao; 
         char *ocorrencia;
         struct node *next;
     }Node;
@@ -57,45 +57,41 @@ int main(void){
             * Esses printfs são só pra debug
             * No if deste for abaixo, eu comecei a verificar apenas i > 1 pois antes disso ele pega um garbage sei lá daonde.... 
            */
+           char lexema[20];
+           char aux_lexema[20];
            for(i = 0; i < str_len; i++){
                char atual = new_str[i];
-               char anterior = i == 0 ? "" : new_str[i-1];
-               char str_cmp[20];
+               char anterior = i == 0 ? "" : new_str[i-1];               
                contador_de_caract++;
-               
-               printf("\nI:%d\n", i);
+
                if(i == 1){
-                   append(str_cmp, atual);
-               }
-               if(i > 1 && getTipoChar(atual) == getTipoChar(anterior)){
-                   //append(str_cmp, atual);
-               }else if(i > 1 && getTipoChar(atual) != getTipoChar(anterior)){
-                  /* if(verifica_lexema(anterior)){
-                       no = insert(no, str_cmp, "Teste");	
-                   }*/if(verifica_se_numero(anterior)){
-                   		no = insert(no, str_cmp, "NUMBER", "numeros seguidos de numeros", "1");
-                   }else if(verifica_se_operador(anterior)){
-                       no = insert(no, str_cmp, "OPERATOR", "operadores", "1");
-                   }else if(verifica_se_parenteses(anterior)){
-                       no = insert(no, str_cmp, "PARENTESES", "Abertura ou fechamento de parenteses()", "1");
-                   }else{
-                       no = insert(no, str_cmp, "END_OF_STATEMENT", ";", "1");
-                   }
-
-                   memset(&str_cmp[0], 0, sizeof(str_cmp));
-                   append(str_cmp, atual);
-                   printf("\nSTR_CMP %s\n", str_cmp); 
-
+                   append(lexema, atual);
                }
                
+               if(i > 1 && getTipoChar(atual) == getTipoChar(anterior)){
+                   append(lexema, atual);
+               }else if(i > 1 && getTipoChar(atual) != getTipoChar(anterior)){
+            	   strcpy(aux_lexema, lexema);
+                   if(verifica_se_numero(anterior)){
+                       no = insert(no, aux_lexema, "NUMBER", "numeros seguidos de numeros", "1");
+                   }else if(verifica_se_operador(anterior)){
+                       no = insert(no, aux_lexema, "OPERATOR", "operadores", "1");
+                   }else if(verifica_se_parenteses(anterior)){              	
+                       no = insert(no, aux_lexema, "PARENTESES", "Abertura ou fechamento de parenteses()", "1");
+                   }else{            	
+                       no = insert(no, aux_lexema, "END_OF_STATEMENT", ";", "1");
+                   }
+                    printf("INSERIU: %s", aux_lexema);
+					memset(&lexema[0], 0, sizeof(lexema));
+					printf("DEPOIS INSERIU: %s", aux_lexema);
+                   	append(lexema, atual);
+               }
            }
-           printf("BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB");
-           printList(no);
            //essa linha é essencial. Quando eu vou colocar os valores no mesmo array, ele não reseta o array direito e coloca uns lixos na próxima adição. Por isso, eu tenho
            //que resetar o array todo. (https://stackoverflow.com/questions/632846/clearing-a-char-array-c)
            memset(&new_str[0], 0, sizeof(new_str));
 	}
-   
+	printList(no);   
     fclose(file);
 	
     return 0;

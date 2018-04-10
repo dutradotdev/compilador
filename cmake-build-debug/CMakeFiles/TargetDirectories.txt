@@ -1,3 +1,0 @@
-/cygdrive/d/wp/compilador/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/d/wp/compilador/cmake-build-debug/CMakeFiles/edit_cache.dir
-/cygdrive/d/wp/compilador/cmake-build-debug/CMakeFiles/compilador.dir
