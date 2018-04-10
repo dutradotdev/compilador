@@ -1,0 +1,216 @@
+
+================================================
+Endereco: 0
+Lexema: ;
+Token: OPERATOR
+Padrao: operadores
+Ocorrencia: 1
+
+================================================
+
+================================================
+Endereco: 1
+Lexema: ;
+Token: NUMBER
+Padrao: numeros seguidos de numeros
+Ocorrencia: 1
+
+================================================
+
+================================================
+Endereco: 0
+Lexema: 
+Token: PARENTESES
+Padrao: Abertura ou fechamento de parenteses()
+Ocorrencia: 1
+
+================================================
+
+================================================
+Endereco: 1
+Lexema: 
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+
+================================================
+
+================================================
+Endereco: 0
+Lexema: 
+Token: NUMBER
+Padrao: numeros seguidos de numeros
+Ocorrencia: 1
+
+================================================
+
+================================================
+Endereco: 1
+Lexema: 
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+
+================================================
+
+================================================
+Endereco: 0
+Lexema: 
+Token: NUMBER
+Padrao: numeros seguidos de numeros
+Ocorrencia: 1
+
+================================================
+
+================================================
+Endereco: 1
+Lexema: 
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+
+================================================
+
+================================================
+Endereco: 0
+Lexema: 2+1=1;
+Token: OPERATOR
+Padrao: operadores
+Ocorrencia: 1
+
+================================================
+
+================================================
+Endereco: 1
+Lexema: 2+1=1;
+Token: NUMBER
+Padrao: numeros seguidos de numeros
+Ocorrencia: 1
+
+================================================
+
+================================================
+Endereco: 0
+Lexema: 2+1=1;0/5=(1);
+Token: PARENTESES
+Padrao: Abertura ou fechamento de parenteses()
+Ocorrencia: 1
+
+================================================
+
+================================================
+Endereco: 1
+Lexema: 2+1=1;0/5=(1);
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+
+================================================
+
+================================================
+Endereco: 0
+Lexema: 2+1=1;0/5=(1);R1+1-(2*3)=1;
+Token: NUMBER
+Padrao: numeros seguidos de numeros
+Ocorrencia: 1
+
+================================================
+
+================================================
+Endereco: 1
+Lexema: 2+1=1;0/5=(1);R1+1-(2*3)=1;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+
+================================================
+
+================================================
+Endereco: 0
+Lexema: 2+1=1;0/5=(1);R1+1-(2*3)=1;0+1-(2*3)=1;
+Token: NUMBER
+Padrao: numeros seguidos de numeros
+Ocorrencia: 1
+
+================================================
+
+================================================
+Endereco: 1
+Lexema: 2+1=1;0/5=(1);R1+1-(2*3)=1;0+1-(2*3)=1;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+
+================================================
+
+================================================
+Endereco: 0
+Lexema: ;
+Token: OPERATOR
+Padrao: operadores
+Ocorrencia: 1
+
+================================================
+
+================================================
+Endereco: 1
+Lexema: ;
+Token: NUMBER
+Padrao: numeros seguidos de numeros
+Ocorrencia: 1
+
+================================================
+
+================================================
+Endereco: 0
+Lexema: 
+Token: PARENTESES
+Padrao: Abertura ou fechamento de parenteses()
+Ocorrencia: 1
+
+================================================
+
+================================================
+Endereco: 1
+Lexema: 
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+
+================================================
+
+================================================
+Endereco: 0
+Lexema: 
+Token: NUMBER
+Padrao: numeros seguidos de numeros
+Ocorrencia: 1
+
+================================================
+
+================================================
+Endereco: 1
+Lexema: 
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+
+================================================
+
+================================================
+Endereco: 0
+Lexema: 
+Token: NUMBER
+Padrao: numeros seguidos de numeros
+Ocorrencia: 1
+
+================================================
+
+================================================
+Endereco: 1
+Lexema: 
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+
+================================================
