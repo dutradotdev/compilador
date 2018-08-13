@@ -1,46 +1,46 @@
 
 ================================================
-Endereco: 1041127496
+Endereco: 393412968
 Lexema: 10
 Token: NUMBER
-Padrao: numeros seguidos de numeros
+Padrao: Numeros seguidos de numeros.
 Ocorrencia: 0
 ================================================
 
 ================================================
-Endereco: 1041127496
+Endereco: 393412968
 Lexema: *
 Token: OPERATOR
-Padrao: operadores
+Padrao: Operadores.
 Ocorrencia: 1
 ================================================
 
 ================================================
-Endereco: 1041127496
+Endereco: 393412968
 Lexema: 3
 Token: NUMBER
-Padrao: numeros seguidos de numeros
+Padrao: Numeros seguidos de numeros.
 Ocorrencia: 1
 ================================================
 
 ================================================
-Endereco: 1041127496
+Endereco: 393412968
 Lexema: =
 Token: OPERATOR
-Padrao: operadores
+Padrao: Operadores.
 Ocorrencia: 1
 ================================================
 
 ================================================
-Endereco: 1041127496
+Endereco: 393412968
 Lexema: 7
 Token: NUMBER
-Padrao: numeros seguidos de numeros
+Padrao: Numeros seguidos de numeros.
 Ocorrencia: 1
 ================================================
 
 ================================================
-Endereco: 1041127496
+Endereco: 393412968
 Lexema: ;
 Token: END_OF_STATEMENT
 Padrao: ;
@@ -48,97 +48,5129 @@ Ocorrencia: 1
 ================================================
 
 ================================================
-Endereco: 1041127496
+Endereco: 393412968
 Lexema: s@1234
 Token: NUMBER
-Padrao: numeros seguidos de numeros
+Padrao: Numeros seguidos de numeros.
 Ocorrencia: 1
 ================================================
 
 ================================================
-Endereco: 1041127496
+Endereco: 393412968
 Lexema: +
 Token: OPERATOR
-Padrao: operadores
+Padrao: Operadores.
 Ocorrencia: 1
 ================================================
 
 ================================================
-Endereco: 1041127496
+Endereco: 393412968
 Lexema: 2010
 Token: NUMBER
-Padrao: numeros seguidos de numeros
+Padrao: Numeros seguidos de numeros.
 Ocorrencia: 1
 ================================================
 
 ================================================
-Endereco: 1041127496
+Endereco: 393412968
 Lexema: *
 Token: OPERATOR
-Padrao: operadores
+Padrao: Operadores.
 Ocorrencia: 2
 ================================================
 
 ================================================
-Endereco: 1041127496
+Endereco: 393412968
 Lexema: (
 Token: PARENTESES
-Padrao: Abertura ou fechamento de parenteses()
+Padrao: Abertura ou fechamento de parenteses().
 Ocorrencia: 1
 ================================================
 
 ================================================
-Endereco: 1041127496
+Endereco: 393412968
 Lexema: 10
 Token: NUMBER
-Padrao: numeros seguidos de numeros
+Padrao: Numeros seguidos de numeros.
 Ocorrencia: 2
 ================================================
 
 ================================================
-Endereco: 1041127496
+Endereco: 393412968
 Lexema: -
 Token: OPERATOR
-Padrao: operadores
+Padrao: Operadores.
 Ocorrencia: 1
 ================================================
 
 ================================================
-Endereco: 1041127496
+Endereco: 393412968
 Lexema: 10
 Token: NUMBER
-Padrao: numeros seguidos de numeros
+Padrao: Numeros seguidos de numeros.
 Ocorrencia: 3
 ================================================
 
 ================================================
-Endereco: 1041127496
+Endereco: 393412968
 Lexema: )
 Token: PARENTESES
-Padrao: Abertura ou fechamento de parenteses()
+Padrao: Abertura ou fechamento de parenteses().
 Ocorrencia: 1
 ================================================
 
 ================================================
-Endereco: 1041127496
+Endereco: 393412968
 Lexema: =
 Token: OPERATOR
-Padrao: operadores
+Padrao: Operadores.
 Ocorrencia: 2
 ================================================
 
 ================================================
-Endereco: 1041127496
+Endereco: 393412968
 Lexema: 0
 Token: NUMBER
-Padrao: numeros seguidos de numeros
+Padrao: Numeros seguidos de numeros.
 Ocorrencia: 1
 ================================================
 
 ================================================
-Endereco: 1041127496
+Endereco: 393412968
 Lexema: ;
 Token: END_OF_STATEMENT
 Padrao: ;
 Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 393412968
+Lexema: CÇ˛portuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 393412968
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: 393412968
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 393412968
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: 393412968
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 393412968
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 393412968
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 4
+================================================
+
+================================================
+Endereco: 393412968
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: -7236344
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -7236344
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -7236344
+Lexema: 3
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -7236344
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -7236344
+Lexema: 7
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -7236344
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -7236344
+Lexema: s@1234
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -7236344
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -7236344
+Lexema: 2010
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -7236344
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -7236344
+Lexema: (
+Token: PARENTESES
+Padrao: Abertura ou fechamento de parenteses().
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -7236344
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -7236344
+Lexema: -
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -7236344
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: -7236344
+Lexema: )
+Token: PARENTESES
+Padrao: Abertura ou fechamento de parenteses().
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -7236344
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -7236344
+Lexema: 0
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -7236344
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -7236344
+Lexema: ◊†ˇ¸portuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -7236344
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: -7236344
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -7236344
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: -7236344
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -7236344
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -7236344
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 4
+================================================
+
+================================================
+Endereco: -7236344
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: -1008456
+Lexema: ﬂˇˇˇportuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 6310800
+================================================
+
+================================================
+Endereco: -1008456
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1008456
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1008456
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1008456
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1008456
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1008456
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1008456
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -110708568
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -110708568
+Lexema:  palme}k™ü_portuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -110708568
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -110708568
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -110708568
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1915150888
+Lexema: `Ëçˇportuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -1915150888
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1915150888
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1915150888
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1915150888
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1915150888
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1915150888
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1915150888
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 925783752
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: 925783752
+Lexema:  palme}ÀõõNportuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 925783752
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 925783752
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 925783752
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1493542472
+Lexema: ú	ßˇportuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -1493542472
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1493542472
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1493542472
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1493542472
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1493542472
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1493542472
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1493542472
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1067034712
+Lexema: Í®?˝portuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: 1067034712
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1067034712
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1067034712
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1067034712
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1067034712
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1067034712
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1067034712
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1667297400
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -1667297400
+Lexema:  palme}[z
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1667297400
+Lexema: )
+Token: PARENTESES
+Padrao: Abertura ou fechamento de parenteses().
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1667297400
+Lexema: #portuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1667297400
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1667297400
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1667297400
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 1129341896
+Lexema: portuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: 1129341896
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1129341896
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1129341896
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1129341896
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1129341896
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1129341896
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1129341896
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -226252056
+Lexema: portuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -226252056
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -226252056
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -226252056
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -226252056
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -226252056
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -226252056
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -226252056
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1919134808
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -1919134808
+Lexema:  palme}ãœ.ıportuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1919134808
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1919134808
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1919134808
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1589440056
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -1589440056
+Lexema:  palme}À”Ü„portuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1589440056
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1589440056
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1589440056
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -225508456
+Lexema: FûÚˇportuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -225508456
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -225508456
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -225508456
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -225508456
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -225508456
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -225508456
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -225508456
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1224483192
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -1224483192
+Lexema:  palme}˚€g◊portuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1224483192
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1224483192
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1224483192
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 1418105448
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: 1418105448
+Lexema:  palme}õb¥ˇ~portuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1418105448
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1418105448
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1418105448
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 966076680
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: 966076680
+Lexema:  palme}kc˛portuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 966076680
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 966076680
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 966076680
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 951665608
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: 951665608
+Lexema:  palme}
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 951665608
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 951665608
+Lexema: Ûûcportuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 951665608
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 951665608
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 951665608
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -794143544
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -794143544
+Lexema:  palme}˚Õ´portuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -794143544
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -794143544
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -794143544
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1745164504
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -1745164504
+Lexema:  palme}[FN‰portuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1745164504
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1745164504
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1745164504
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -131030360
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -131030360
+Lexema:  palme}K,ìÇportuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -131030360
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -131030360
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -131030360
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -216001304
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -216001304
+Lexema:  palme}{•:Kportuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -216001304
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -216001304
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -216001304
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 259884616
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: 259884616
+Lexema:  palme}kû `portuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 259884616
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 259884616
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 259884616
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 1740444904
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: 1740444904
+Lexema:  palme}õöÂ∆portuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1740444904
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1740444904
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1740444904
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 103156120
+Lexema: L
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: 103156120
+Lexema: 5
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 103156120
+Lexema: ˛portuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 103156120
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 103156120
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 103156120
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 103156120
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 103156120
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 103156120
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 103156120
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 835021176
+Lexema: ´‘
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: 835021176
+Lexema: 1
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 835021176
+Lexema: ˝portuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 835021176
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 835021176
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 835021176
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 835021176
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 835021176
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 835021176
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 835021176
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1920489928
+Lexema: ortuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: 1920489928
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1920489928
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1920489928
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1920489928
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1920489928
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1920489928
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1920489928
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1289818520
+Lexema: ortuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -1289818520
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1289818520
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1289818520
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1289818520
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1289818520
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1289818520
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1289818520
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 714748984
+Lexema: ortuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: 714748984
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 714748984
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 714748984
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 714748984
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 714748984
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 714748984
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 714748984
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1739961688
+Lexema: ortuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -1739961688
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1739961688
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1739961688
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1739961688
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1739961688
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1739961688
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1739961688
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1884691176
+Lexema: Ä)πè˛ortuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -1884691176
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1884691176
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1884691176
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1884691176
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1884691176
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1884691176
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1884691176
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 619922264
+Lexema: ¿á%¸ortuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: 619922264
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 619922264
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 619922264
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 619922264
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 619922264
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 619922264
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 619922264
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 619922264
+Lexema: ortuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 619922264
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 619922264
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 619922264
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 619922264
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 619922264
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 619922264
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 619922264
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1971521384
+Lexema: ortuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -1971521384
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1971521384
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1971521384
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1971521384
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1971521384
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1971521384
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1971521384
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1971521384
+Lexema: ortuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1971521384
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1971521384
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1971521384
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1971521384
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1971521384
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1971521384
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1971521384
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -287184936
+Lexema: ortuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -287184936
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -287184936
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -287184936
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -287184936
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -287184936
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -287184936
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -287184936
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -287184936
+Lexema: Ûortuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -287184936
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -287184936
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -287184936
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -287184936
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -287184936
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -287184936
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -287184936
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1238691192
+Lexema: ortuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -1238691192
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1238691192
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1238691192
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1238691192
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1238691192
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1238691192
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1238691192
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1238691192
+Lexema: #ortuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1238691192
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1238691192
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1238691192
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1238691192
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1238691192
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1238691192
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1238691192
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -701558744
+Lexema: ortuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -701558744
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -701558744
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -701558744
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -701558744
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -701558744
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -701558744
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -701558744
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -701558744
+Lexema: ortuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -701558744
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -701558744
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -701558744
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -701558744
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -701558744
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -701558744
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -701558744
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1437015464
+Lexema: ortuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -1437015464
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1437015464
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1437015464
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1437015464
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1437015464
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1437015464
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1437015464
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1437015464
+Lexema: ortuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1437015464
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1437015464
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1437015464
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1437015464
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1437015464
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1437015464
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1437015464
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -17274648
+Lexema: ortuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -17274648
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -17274648
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -17274648
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -17274648
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -17274648
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -17274648
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -17274648
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -17274648
+Lexema: ortuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -17274648
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -17274648
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -17274648
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -17274648
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -17274648
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -17274648
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -17274648
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 1151837960
+Lexema: ortuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: 1151837960
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1151837960
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1151837960
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1151837960
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1151837960
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1151837960
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1151837960
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1151837960
+Lexema: ortuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 1151837960
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 1151837960
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 1151837960
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 1151837960
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 1151837960
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 1151837960
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 1151837960
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -2070238600
+Lexema: ortuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -2070238600
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -2070238600
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -2070238600
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -2070238600
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -2070238600
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -2070238600
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -2070238600
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -2070238600
+Lexema: ortuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -2070238600
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -2070238600
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -2070238600
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -2070238600
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -2070238600
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -2070238600
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -2070238600
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -794966072
+Lexema: ortuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -794966072
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -794966072
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -794966072
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -794966072
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -794966072
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -794966072
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -794966072
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -794966072
+Lexema: ortuguesa
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -794966072
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -794966072
+Lexema: corinthians
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -794966072
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -794966072
+Lexema: palmeiras
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -794966072
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -794966072
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -794966072
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -55131848
+Lexema: 0
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -55131848
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -55131848
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -55131848
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -55131848
+Lexema: 2014
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -55131848
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -55131848
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -55131848
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -55131848
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -55131848
+Lexema: 2
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -55131848
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -55131848
+Lexema: 4
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -55131848
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -55131848
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: -55131848
+Lexema: 2
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -55131848
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: -55131848
+Lexema: 4
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -55131848
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: -864023784
+Lexema: 0
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -864023784
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -864023784
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -864023784
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -864023784
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -864023784
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -691700104
+Lexema: ucas
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -691700104
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -691700104
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -691700104
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -691700104
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -691700104
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -691700104
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: -691700104
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1416108904
+Lexema: ucas
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: 1416108904
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1416108904
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1416108904
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 1416108904
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 1416108904
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1416108904
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: 1416108904
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1842177720
+Lexema: ucas
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: 1842177720
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1842177720
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1842177720
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 1842177720
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 1842177720
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1842177720
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: 1842177720
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1275740968
+Lexema: ucas
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -1275740968
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1275740968
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1275740968
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1275740968
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1275740968
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1275740968
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: -1275740968
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1610313048
+Lexema: ucas
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -1610313048
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1610313048
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1610313048
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1610313048
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1610313048
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1610313048
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: -1610313048
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 2029557240
+Lexema: ucas
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: 2029557240
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 2029557240
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 2029557240
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 2029557240
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 2029557240
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 2029557240
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: 2029557240
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 2066807464
+Lexema: ucas
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: 2066807464
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 2066807464
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 2066807464
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 2066807464
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 2066807464
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 2066807464
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: 2066807464
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -584028664
+Lexema: ucas
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -584028664
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -584028664
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -584028664
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -584028664
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -584028664
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -584028664
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: -584028664
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -652596392
+Lexema: ucas
+Token: PALAVRA
+Padrao: Variavel ou palavra reservada.
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -652596392
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -652596392
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -652596392
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -652596392
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -652596392
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -652596392
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: -652596392
+Lexema: ;
+Token: PALAVRA
+Padrao: Variavel ou palavra reservada.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 429307080
+Lexema: ucas
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: 429307080
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 429307080
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 429307080
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 429307080
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 429307080
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 429307080
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: 429307080
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -923330568
+Lexema: ucas
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -923330568
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -923330568
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -923330568
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -923330568
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -923330568
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -923330568
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: -923330568
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 273139672
+Lexema: ucas
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: 273139672
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 273139672
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 273139672
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 273139672
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 273139672
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 273139672
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: 273139672
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1141703848
+Lexema: ucas
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -1141703848
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1141703848
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1141703848
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1141703848
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1141703848
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1141703848
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: -1141703848
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -132863384
+Lexema: ucas
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -132863384
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -132863384
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -132863384
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -132863384
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -132863384
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -132863384
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: -132863384
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 350666504
+Lexema: ucas
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: 350666504
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 350666504
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 350666504
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 350666504
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 350666504
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 350666504
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: 350666504
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -145145912
+Lexema: ucas
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -145145912
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -145145912
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -145145912
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -145145912
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -145145912
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -145145912
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: -145145912
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1381659176
+Lexema: ucas
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: 1381659176
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1381659176
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1381659176
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 1381659176
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 1381659176
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1381659176
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: 1381659176
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1425910360
+Lexema: ucas
+Token: PALAVRA
+Padrao: Variavel ou palavra reservada.
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: 1425910360
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1425910360
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1425910360
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 1425910360
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 1425910360
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1425910360
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: 1425910360
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1406717176
+Lexema: ucas
+Token: PALAVRA
+Padrao: Variavel ou palavra reservada.
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: -1406717176
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1406717176
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1406717176
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1406717176
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1406717176
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1406717176
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: -1406717176
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1406717176
+Lexema: orinthians
+Token: PALAVRA
+Padrao: Variavel ou palavra reservada.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1406717176
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1406717176
+Lexema: palmeiras
+Token: PALAVRA
+Padrao: Variavel ou palavra reservada.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1406717176
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1406717176
+Lexema: portuguesa
+Token: PALAVRA
+Padrao: Variavel ou palavra reservada.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: -1406717176
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: -1406717176
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 4
+================================================
+
+================================================
+Endereco: -1406717176
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1406717176
+Lexema: orinthians
+Token: PALAVRA
+Padrao: Variavel ou palavra reservada.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1406717176
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: -1406717176
+Lexema: palmeiras
+Token: PALAVRA
+Padrao: Variavel ou palavra reservada.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1406717176
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1406717176
+Lexema: portuguesa
+Token: PALAVRA
+Padrao: Variavel ou palavra reservada.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: -1406717176
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 4
+================================================
+
+================================================
+Endereco: -1406717176
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 5
+================================================
+
+================================================
+Endereco: -1406717176
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: 683847864
+Lexema: lucas
+Token: PALAVRA
+Padrao: Variavel ou palavra reservada.
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: 683847864
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 683847864
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 683847864
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 683847864
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 683847864
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 683847864
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: 683847864
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 683847864
+Lexema: corinthians
+Token: PALAVRA
+Padrao: Variavel ou palavra reservada.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 683847864
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 683847864
+Lexema: palmeiras
+Token: PALAVRA
+Padrao: Variavel ou palavra reservada.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 683847864
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 683847864
+Lexema: portuguesa
+Token: PALAVRA
+Padrao: Variavel ou palavra reservada.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 683847864
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: 683847864
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 4
+================================================
+
+================================================
+Endereco: 683847864
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 683847864
+Lexema: corinthians
+Token: PALAVRA
+Padrao: Variavel ou palavra reservada.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 683847864
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: 683847864
+Lexema: palmeiras
+Token: PALAVRA
+Padrao: Variavel ou palavra reservada.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 683847864
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 683847864
+Lexema: portuguesa
+Token: PALAVRA
+Padrao: Variavel ou palavra reservada.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 683847864
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 4
+================================================
+
+================================================
+Endereco: 683847864
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 5
+================================================
+
+================================================
+Endereco: 683847864
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: 1955080696
+Lexema: lucas
+Token: PALAVRA
+Padrao: Variavel ou palavra reservada.
+Ocorrencia: 0
+================================================
+
+================================================
+Endereco: 1955080696
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1955080696
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1955080696
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 1955080696
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 1955080696
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1955080696
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: 1955080696
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1955080696
+Lexema: corinthians
+Token: PALAVRA
+Padrao: Variavel ou palavra reservada.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1955080696
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 1955080696
+Lexema: palmeiras
+Token: PALAVRA
+Padrao: Variavel ou palavra reservada.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1955080696
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1955080696
+Lexema: portuguesa
+Token: PALAVRA
+Padrao: Variavel ou palavra reservada.
+Ocorrencia: 1
+================================================
+
+================================================
+Endereco: 1955080696
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: 1955080696
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 4
+================================================
+
+================================================
+Endereco: 1955080696
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 1955080696
+Lexema: corinthians
+Token: PALAVRA
+Padrao: Variavel ou palavra reservada.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 1955080696
+Lexema: =
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 3
+================================================
+
+================================================
+Endereco: 1955080696
+Lexema: palmeiras
+Token: PALAVRA
+Padrao: Variavel ou palavra reservada.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 1955080696
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 1955080696
+Lexema: portuguesa
+Token: PALAVRA
+Padrao: Variavel ou palavra reservada.
+Ocorrencia: 2
+================================================
+
+================================================
+Endereco: 1955080696
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores.
+Ocorrencia: 4
+================================================
+
+================================================
+Endereco: 1955080696
+Lexema: 10
+Token: NUMBER
+Padrao: Numeros seguidos de numeros.
+Ocorrencia: 5
+================================================
+
+================================================
+Endereco: 1955080696
+Lexema: ;
+Token: END_OF_STATEMENT
+Padrao: ;
+Ocorrencia: 3
 ================================================

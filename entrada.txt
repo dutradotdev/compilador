@@ -1,2 +1,2 @@
-10*3=7;
-1234+2010*(10-10)=0;
+lucas+10+10=10;
+corinthians = palmeiras * portuguesa+10;

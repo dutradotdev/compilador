@@ -23,7 +23,7 @@ extern "C" {
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
-
+#include <regex.h>
  bool verifica_se_numero(char value){
     	switch(value){
     		case '0':
@@ -97,6 +97,36 @@ bool verifica_se_end_of_statement(char value){
              return true;
              break;
          default: return false;
+     }
+ }
+
+ bool verifica_se_palavra(char* string) {
+     regex_t reg;
+     //compilo 
+     if(regcomp(&reg, "^[a-zA-Z][a-zA-Z0-9]", REG_EXTENDED|REG_NOSUB) != 0) {
+         printf("erro ao compilar");
+         exit(1);
+     }
+     
+     if((regexec(&reg, string, 0, (regmatch_t *)NULL, 0)) == 0) {
+         return true;
+     } else {
+         return false;
+     }
+ }
+
+ bool verifica_se_letra(char string) {
+     regex_t reg;
+     //compilo 
+     if(regcomp(&reg, "[a-zA-Z]", REG_EXTENDED|REG_NOSUB) != 0) {
+         printf("erro ao compilar");
+         exit(1);
+     }
+
+     if((regexec(&reg, &string, 0, (regmatch_t *)NULL, 0)) == 0) {
+         return true;
+     } else {
+         return false;
      }
  }
 

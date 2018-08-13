@@ -32,3 +32,14 @@ Preciso de pointers para mudar valor de variáveis por meio de funções em C.
 Quando eu passo uma variável para uma função que muda o valor dessa variável, a função não muda o valor dessa variável
 Pois o C manda uma cópia dessa variável e não ela com seu endereço de memória em si. Quando eu modifico ela, eu tô modificando
 uma cópia então não acontece nada.
+
+-----------------------------------------------------
+voce recebe uma string (com tamanho indefinido) assim:
+void(char* string){}
+
+e se vc precisar usar ela dentro da funcao pra ser usada em outra funcao, pode usar normal.
+void(char* string){
+    printf("%s", string)
+}
+como as string sao passadas por referencia, eu nao devo altera-la dentro da funcao pq
+estou recebendo um ponteiro!!!!!

@@ -140,16 +140,3 @@ void printList(Node* list){
         aux_list = aux_list -> next;
     }while(aux_list != NULL);
 }
-
-int verify_occurence_of_word(char arr[], int size, char word[]) {
-    int i;
-    int count = 0;
-    for(i = 0; i <= size; i++) {
-        printf("%s:%s\n", &arr[i], word);
-        int compare = strcmp(&arr[i], word); 
-        if(compare == 0){
-            count++;
-        }
-    }
-    return count;
-}
