@@ -12,7 +12,7 @@
 
 /* deixei alguns em pt-br para não gerar tanta confusão */
 typedef struct node{
-  int endereco;
+  char *endereco;
   char lexema[20];
   char *token;
   char *padrao; 
@@ -40,16 +40,17 @@ Node* initialize(void){
 
 Node* insert(Node* actualList, char lexema[], char token[], char padrao[], char ocorrencia[]){
     Node* newNode = (Node*) malloc(sizeof(Node));
-    
+    int contador_de_ocorrencia = 1;
     if(newNode == NULL){
         printf("Nao foi possivel criar o no da lista");
         exit(-1);
     }
     
     strcpy(newNode -> lexema, lexema);
+    newNode -> endereco = &lexema;
     newNode -> token = token;
     newNode -> padrao = padrao;
-    newNode -> ocorrencia = ocorrencia;
+    //newNode -> ocorrencia = ocorrencia;
     newNode -> next = NULL; //pq é o último node
    
     //Se o actualList for null é porque não há elementos, logo esse será o primeiro elemento
@@ -59,13 +60,16 @@ Node* insert(Node* actualList, char lexema[], char token[], char padrao[], char 
        Node* current = actualList;
        //Caso já tenho elementos, eu clono a minha lista atual (por causa dos undefined behaviors) e enquanto meu elemento next não for null (ultimo elemento da lista)
        //eu atribuo o next até ser null
-       while(current -> next != NULL){
+        while(current -> next != NULL){
+         if(strcmp(current -> lexema, lexema) == 0) {
+             contador_de_ocorrencia++;
+         }
          current = current -> next;
        };
-       
+       newNode -> ocorrencia = contador_de_ocorrencia;
        current -> next = newNode;
     }
-    printf("\ninsert fim:%s\n", lexema);
+    //printf("\ninsert fim:%s\n", lexema);
     return actualList;
 }
 
@@ -75,21 +79,25 @@ Node* insert(Node* actualList, char lexema[], char token[], char padrao[], char 
 */
 void printList(Node* list){
 	Node* aux_list = list;
-	
-    int cont = 0;
+    char lexms_array[1000][1000];
+    int cfr = 0; //count for array
+	int cont = 0;
     do{
+        strcpy(lexms_array[cfr], aux_list-> lexema);
+        cfr++;
+        //int ocurrence = verify_occurence_of_word(lexms_array, cfr, aux_list -> lexema);
         printf("\n================================================\n");
-        printf("Endereco: %d\n", cont);
-        printf("Lexema: %s\n", aux_list->lexema);
+        printf("Endereco: %p\n", aux_list -> endereco);
+        printf("Lexema: %s\n", aux_list-> lexema);
         printf("Token: %s\n", aux_list -> token);
         printf("Padrao: %s\n", aux_list -> padrao);
-        printf("Ocorrencia: %s\n", aux_list -> ocorrencia);
+        printf("Ocorrencia: %d\n", aux_list -> ocorrencia);
         printf("================================================\n");
 
         //Trecho que imprime no arquivo tabela_simbolos
 
         FILE *file;
-        file = fopen("D:\\workspace\\compilador\\tabela_simbolos.txt" , "a");
+        file = fopen("tabela_simbolos.txt" , "a");
 
         if (file == NULL) {
             printf ("Arquivo nao pode ser aberto!");
@@ -99,11 +107,11 @@ void printList(Node* list){
         }
 
         fprintf(file, "\n================================================\n");
-        fprintf(file, "Endereco: %d\n", cont);
+        fprintf(file, "Endereco: %d\n", &aux_list);
         fprintf(file, "Lexema: %s\n", aux_list->lexema);
         fprintf(file, "Token: %s\n", aux_list -> token);
         fprintf(file, "Padrao: %s\n", aux_list -> padrao);
-        fprintf(file, "Ocorrencia: %s\n", aux_list -> ocorrencia);
+        fprintf(file, "Ocorrencia: %d\n", aux_list -> ocorrencia);
         fprintf(file, "================================================\n");
 
         fclose(file);
@@ -112,7 +120,7 @@ void printList(Node* list){
         //Trecho que imprime no arquivo token
 
         FILE *file2;
-        file2 = fopen("D:\\workspace\\compilador\\token.txt" , "a");
+        file2 = fopen("token.txt" , "a");
 
         if (file2 == NULL) {
             printf ("Arquivo nao pode ser aberto!");
@@ -121,14 +129,27 @@ void printList(Node* list){
 
         }
 
-                fprintf(file2, "< ");
+        fprintf(file2, "< ");
         fprintf(file2, "%s", aux_list -> token);
-        fprintf(file2, ", %d", cont);
+        fprintf(file2, ", %d", aux_list -> ocorrencia);
         fprintf(file2, ">; ");
 
         fclose(file2);
 
         cont++;
         aux_list = aux_list -> next;
-    }while(aux_list != NULL);    
+    }while(aux_list != NULL);
+}
+
+int verify_occurence_of_word(char arr[], int size, char word[]) {
+    int i;
+    int count = 0;
+    for(i = 0; i <= size; i++) {
+        printf("%s:%s\n", &arr[i], word);
+        int compare = strcmp(&arr[i], word); 
+        if(compare == 0){
+            count++;
+        }
+    }
+    return count;
 }

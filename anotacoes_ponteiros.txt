@@ -1,0 +1,34 @@
+//https://www.youtube.com/watch?v=Agm01m4s3wo
+//o morador_ptr APONTA para o endereço de memória 1
+Morador *morador_ptr = 1
+
+//imprimo o ponteiro
+print(morador_ptr) => 1
+
+//imprimo o valor apontado
+print(*morador_ptr) => Lucas
+
+-------------------------------------------------
+//processo inverso... se eu tivesse o lucas, eu usaria o & para obter o ponteiro de Lucas
+Morador lucas = findLucas();
+Morador *lucas_ptr = &lucas;
+
+lucas == *lucas_ptr = true;
+
+//& pega a casa dele(endereço de memória apontado)
+//dado uma casa(&) o * pega o morador
+
+----------------------------------------------------
+*ptr => "dereference operator"... dado a referência deste lugar, ele pega o morador(valor) deste lugar.
+&val => dado um valor(variavel) ele pega a referência desse valor.
+int * => ponteiro para onde "mora" 1 inteiro
+char * => ponteiro para onde "mora" 1 byte
+----------------------------------------------------
+Alocando espaço de memória para um novo morador
+Morador *novo_morador_ptr = malloc(sizeof(Morador)); 
+*novo_morador_ptr = 'lucas';
+----------------------------------------------------
+Preciso de pointers para mudar valor de variáveis por meio de funções em C.
+Quando eu passo uma variável para uma função que muda o valor dessa variável, a função não muda o valor dessa variável
+Pois o C manda uma cópia dessa variável e não ela com seu endereço de memória em si. Quando eu modifico ela, eu tô modificando
+uma cópia então não acontece nada.

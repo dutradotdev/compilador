@@ -1,0 +1,4 @@
+1- gcc main.c -g -> para compilar
+2 - clica no insetinho para o debug e muda o "program": "${workspaceFolder}/a.out" do launch.json
+pro arquivo de saída
+3 - depois é só clicar na seta do debug

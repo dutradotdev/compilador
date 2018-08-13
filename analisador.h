@@ -75,9 +75,6 @@ extern "C" {
          case '=':
              return true;
              break;             
-         case 0x5C:
-             return true;
-             break;
          default: return false;
      }
  }

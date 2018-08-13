@@ -1,174 +1,14 @@
 
 ================================================
-Endereco: 0
-Lexema: 134
-Token: NUMBER
-Padrao: numeros seguidos de numeros
-Ocorrencia: 1
-================================================
-
-================================================
-Endereco: 1
-Lexema: +
-Token: OPERATOR
-Padrao: operadores
-Ocorrencia: 1
-================================================
-
-================================================
-Endereco: 2
-Lexema: 1212
-Token: NUMBER
-Padrao: numeros seguidos de numeros
-Ocorrencia: 1
-================================================
-
-================================================
-Endereco: 3
-Lexema: =
-Token: OPERATOR
-Padrao: operadores
-Ocorrencia: 1
-================================================
-
-================================================
-Endereco: 4
-Lexema: 1
-Token: NUMBER
-Padrao: numeros seguidos de numeros
-Ocorrencia: 1
-================================================
-
-================================================
-Endereco: 5
-Lexema: ;
-Token: END_OF_STATEMENT
-Padrao: ;
-Ocorrencia: 1
-================================================
-
-================================================
-Endereco: 6
-Lexema: 0
-Token: NUMBER
-Padrao: numeros seguidos de numeros
-Ocorrencia: 1
-================================================
-
-================================================
-Endereco: 7
-Lexema: /
-Token: END_OF_STATEMENT
-Padrao: ;
-Ocorrencia: 1
-================================================
-
-================================================
-Endereco: 8
-Lexema: 5
-Token: NUMBER
-Padrao: numeros seguidos de numeros
-Ocorrencia: 1
-================================================
-
-================================================
-Endereco: 9
-Lexema: =
-Token: OPERATOR
-Padrao: operadores
-Ocorrencia: 1
-================================================
-
-================================================
-Endereco: 10
-Lexema: (
-Token: PARENTESES
-Padrao: Abertura ou fechamento de parenteses()
-Ocorrencia: 1
-================================================
-
-================================================
-Endereco: 11
+Endereco: 1041127496
 Lexema: 10
 Token: NUMBER
 Padrao: numeros seguidos de numeros
-Ocorrencia: 1
+Ocorrencia: 0
 ================================================
 
 ================================================
-Endereco: 12
-Lexema: )
-Token: PARENTESES
-Padrao: Abertura ou fechamento de parenteses()
-Ocorrencia: 1
-================================================
-
-================================================
-Endereco: 13
-Lexema: ;
-Token: END_OF_STATEMENT
-Padrao: ;
-Ocorrencia: 1
-================================================
-
-================================================
-Endereco: 14
-Lexema: S@
-Token: END_OF_STATEMENT
-Padrao: ;
-Ocorrencia: 1
-================================================
-
-================================================
-Endereco: 15
-Lexema: 10
-Token: NUMBER
-Padrao: numeros seguidos de numeros
-Ocorrencia: 1
-================================================
-
-================================================
-Endereco: 16
-Lexema: +
-Token: OPERATOR
-Padrao: operadores
-Ocorrencia: 1
-================================================
-
-================================================
-Endereco: 17
-Lexema: 10
-Token: NUMBER
-Padrao: numeros seguidos de numeros
-Ocorrencia: 1
-================================================
-
-================================================
-Endereco: 18
-Lexema: -
-Token: OPERATOR
-Padrao: operadores
-Ocorrencia: 1
-================================================
-
-================================================
-Endereco: 19
-Lexema: (
-Token: PARENTESES
-Padrao: Abertura ou fechamento de parenteses()
-Ocorrencia: 1
-================================================
-
-================================================
-Endereco: 20
-Lexema: 2
-Token: NUMBER
-Padrao: numeros seguidos de numeros
-Ocorrencia: 1
-================================================
-
-================================================
-Endereco: 21
+Endereco: 1041127496
 Lexema: *
 Token: OPERATOR
 Padrao: operadores
@@ -176,7 +16,7 @@ Ocorrencia: 1
 ================================================
 
 ================================================
-Endereco: 22
+Endereco: 1041127496
 Lexema: 3
 Token: NUMBER
 Padrao: numeros seguidos de numeros
@@ -184,15 +24,7 @@ Ocorrencia: 1
 ================================================
 
 ================================================
-Endereco: 23
-Lexema: )
-Token: PARENTESES
-Padrao: Abertura ou fechamento de parenteses()
-Ocorrencia: 1
-================================================
-
-================================================
-Endereco: 24
+Endereco: 1041127496
 Lexema: =
 Token: OPERATOR
 Padrao: operadores
@@ -200,15 +32,15 @@ Ocorrencia: 1
 ================================================
 
 ================================================
-Endereco: 25
-Lexema: 10
+Endereco: 1041127496
+Lexema: 7
 Token: NUMBER
 Padrao: numeros seguidos de numeros
 Ocorrencia: 1
 ================================================
 
 ================================================
-Endereco: 26
+Endereco: 1041127496
 Lexema: ;
 Token: END_OF_STATEMENT
 Padrao: ;
@@ -216,15 +48,15 @@ Ocorrencia: 1
 ================================================
 
 ================================================
-Endereco: 27
-Lexema: 0
+Endereco: 1041127496
+Lexema: s@1234
 Token: NUMBER
 Padrao: numeros seguidos de numeros
 Ocorrencia: 1
 ================================================
 
 ================================================
-Endereco: 28
+Endereco: 1041127496
 Lexema: +
 Token: OPERATOR
 Padrao: operadores
@@ -232,23 +64,23 @@ Ocorrencia: 1
 ================================================
 
 ================================================
-Endereco: 29
-Lexema: 10
+Endereco: 1041127496
+Lexema: 2010
 Token: NUMBER
 Padrao: numeros seguidos de numeros
 Ocorrencia: 1
 ================================================
 
 ================================================
-Endereco: 30
-Lexema: -
+Endereco: 1041127496
+Lexema: *
 Token: OPERATOR
 Padrao: operadores
-Ocorrencia: 1
+Ocorrencia: 2
 ================================================
 
 ================================================
-Endereco: 31
+Endereco: 1041127496
 Lexema: (
 Token: PARENTESES
 Padrao: Abertura ou fechamento de parenteses()
@@ -256,31 +88,31 @@ Ocorrencia: 1
 ================================================
 
 ================================================
-Endereco: 32
-Lexema: 2
+Endereco: 1041127496
+Lexema: 10
 Token: NUMBER
 Padrao: numeros seguidos de numeros
-Ocorrencia: 1
+Ocorrencia: 2
 ================================================
 
 ================================================
-Endereco: 33
-Lexema: *
+Endereco: 1041127496
+Lexema: -
 Token: OPERATOR
 Padrao: operadores
 Ocorrencia: 1
 ================================================
 
 ================================================
-Endereco: 34
-Lexema: 3
+Endereco: 1041127496
+Lexema: 10
 Token: NUMBER
 Padrao: numeros seguidos de numeros
-Ocorrencia: 1
+Ocorrencia: 3
 ================================================
 
 ================================================
-Endereco: 35
+Endereco: 1041127496
 Lexema: )
 Token: PARENTESES
 Padrao: Abertura ou fechamento de parenteses()
@@ -288,25 +120,25 @@ Ocorrencia: 1
 ================================================
 
 ================================================
-Endereco: 36
+Endereco: 1041127496
 Lexema: =
 Token: OPERATOR
 Padrao: operadores
-Ocorrencia: 1
+Ocorrencia: 2
 ================================================
 
 ================================================
-Endereco: 37
-Lexema: 10
+Endereco: 1041127496
+Lexema: 0
 Token: NUMBER
 Padrao: numeros seguidos de numeros
 Ocorrencia: 1
 ================================================
 
 ================================================
-Endereco: 38
+Endereco: 1041127496
 Lexema: ;
 Token: END_OF_STATEMENT
 Padrao: ;
-Ocorrencia: 1
+Ocorrencia: 2
 ================================================

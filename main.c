@@ -9,13 +9,13 @@
 int main(void){
     FILE *file;
     char nome_arquivo[12] = "entrada.txt";
-    char str[25], teste[25];
+    char str[25];
     int contador_de_linha, contador_de_coluna, contador_de_caract;
     int i = 0;
     
     typedef struct node{
         
-        int endereco;
+        char endereco[20];
         char lexema[20];
         char *token;
         char *padrao; 
@@ -36,15 +36,15 @@ int main(void){
            
            //pego o tamanho do array e declaro um array com o tamanho certo ao invés de um tamanho estático.
            int str_len = strlen(str);
+           str_len++;
            char new_str[str_len];
-           for(i = 0; i < str_len; i++){
+           for(i = 0; i <= str_len; i++){
                if(!isspace(str[i]) || verifica_se_numero(str[i]) || verifica_se_operador(str[i]) || verifica_se_parenteses(str[i]) || verifica_se_end_of_statement(str[i])){
                    //crio um outro array limpo(new_str) com apenas os elementos necessários.
                    char c = str[i];
                    append(new_str, c);
                }
            }
-           
            /*
            Essa parte está meio bugada. A ideia é o seguinte:
             * Na string, eu vou ter a sequencia de caracteres. No for, eu pego o caracter atual e o caracter anterior da string.
@@ -59,9 +59,11 @@ int main(void){
            */
            char lexema[20];
            char aux_lexema[20];
-           for(i = 0; i < str_len; i++){
+           contador_de_caract = 0;
+           new_str[0] = "";
+           for(i = 0; i <= str_len; i++){
                char atual = new_str[i];
-               char anterior = i == 0 ? "" : new_str[i-1];               
+               char anterior = i == 0 ? "" : new_str[i-1];
                contador_de_caract++;
 
                if(i == 1){
@@ -81,9 +83,9 @@ int main(void){
                    }else{            	
                        no = insert(no, aux_lexema, "END_OF_STATEMENT", ";", "1");
                    }
-                    printf("INSERIU: %s", aux_lexema);
+                    //printf("INSERIU: %s", aux_lexema);
 					memset(&lexema[0], 0, sizeof(lexema));
-					printf("DEPOIS INSERIU: %s", aux_lexema);
+					//printf("DEPOIS INSERIU: %s", aux_lexema);
                    	append(lexema, atual);
                }
            }
@@ -96,9 +98,3 @@ int main(void){
 	
     return 0;
 }
-
-/*
-                       
-                       
-                        
- */
